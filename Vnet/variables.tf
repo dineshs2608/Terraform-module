@@ -1,4 +1,4 @@
-variable vnet-name {
+variable "vnet-name" {
   type = string
 }
 
