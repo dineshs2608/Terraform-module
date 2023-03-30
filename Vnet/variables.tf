@@ -1,6 +1,5 @@
 variable vnet-name {
   type = string
-  default = "practice-vnet"
 }
 
 # variable address_space  {
@@ -13,5 +12,4 @@ variable vnet-name {
 
 variable tags {
   type = string
-  default = "Dev Environment"
 }
